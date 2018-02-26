@@ -41,3 +41,29 @@ Realizar as tarefas abaixo:
 * Criar uma conta no [Docker Hub][3] e fazer o upload da imagem que você criou no passo anterior.
 * Utilize 2 imagens já disponíveis no Docker Hub para subir uma aplicação linkada ( exemplo Wordpress + MySQL )
 
+```shell
+
+1. Crie o arquivo stack-teste.yml com o comando abaixo:
+touch stack-teste.yml
+
+2. Coloque o conteúdo abaixo dentro do arquivo stack-teste.yml
+
+version: '3.1'
+
+services:
+
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      WORDPRESS_DB_PASSWORD: example
+
+  mysql:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+```
+
