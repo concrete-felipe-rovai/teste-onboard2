@@ -34,3 +34,7 @@ Quando finalizado, monte uma apresentação sobre o que aprendeu.
 
 ## Learn basics about docker
 
+Realizar as tarefas abaixo:
+
+* Utilizar qualquer imagem já existente ou criar a sua própria para 
+
