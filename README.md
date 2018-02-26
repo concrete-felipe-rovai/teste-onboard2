@@ -41,19 +41,21 @@ Realizar as tarefas abaixo:
 * Criar uma conta no [Docker Hub][3] e fazer o upload da imagem que você criou no passo anterior.
 * Utilize 2 imagens já disponíveis no Docker Hub para subir uma aplicação linkada ( exemplo Wordpress + MySQL )
 
-```shell
 
 1. Baixe a imagem Wordpress pelo repositório DockerHub
+```shell
 docker pull wordpress
-
+```
 2. Baixe a imagem do MySQL na sua versão 5.7 pelo repositório DockerHub
+```shell
 docker pull mysql:5.7
-
+```
 3. Crie o arquivo stack-teste.yml com o comando abaixo:
+```shell
 touch stack-teste.yml
-
+```
 4. Adicione o conteúdo abaixo no arquivo stack-teste.yml
-
+```shell
 version: '3.1'
 
 services:
@@ -71,11 +73,10 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: example
-
-5. De dentro da pasta onde foi criado o arquivo stack-teste.yml , rode o docker compose para que ele suba o Wordpress, suba o MySQL e faça o link entre os 2.
-
-docker-compose -f stack-teste.yml up
-
-      
 ```
+5. De dentro da pasta onde foi criado o arquivo stack-teste.yml , rode o docker compose para que ele suba o Wordpress, suba o MySQL e faça o link entre os 2.
+```shell
+docker-compose -f stack-teste.yml up
+```
+
 
