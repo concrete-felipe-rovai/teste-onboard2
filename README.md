@@ -1,3 +1,6 @@
+[minikube-windows-amd64.exe](https://storage.googleapis.com/minikube/releases/latest/minikube-windows-amd64.exe)
+
+
 <dl>
   <dt><h1>ON-Board<h1></dt>
   <dd><h3>Ler Scrumbook<h3></dd>
