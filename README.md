@@ -43,16 +43,16 @@ Realizar as tarefas abaixo:
 
 ```shell
 
-1. Baixe a imagem Wordpress do DockerHub
+1. Baixe a imagem Wordpress pelo repositório DockerHub
 docker pull wordpress
 
-2. Baixe a imagem do MySQL na sua versão 5.7 do repositório DockerHub
+2. Baixe a imagem do MySQL na sua versão 5.7 pelo repositório DockerHub
 docker pull mysql:5.7
 
 3. Crie o arquivo stack-teste.yml com o comando abaixo:
 touch stack-teste.yml
 
-4. Coloque o conteúdo abaixo dentro do arquivo stack-teste.yml
+4. Adicione o conteúdo abaixo no arquivo stack-teste.yml
 
 version: '3.1'
 
@@ -72,7 +72,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: example
 
-5. De dentro da pasta onde foi criado o arquivo stack-teste.yml , rode o docker compose para que ele suba o Wordpress e linke o mesmo com o MySQL.
+5. De dentro da pasta onde foi criado o arquivo stack-teste.yml , rode o docker compose para que ele suba o Wordpress, suba o MySQL e faça o link entre os 2.
 
 docker-compose -f stack-teste.yml up
 
