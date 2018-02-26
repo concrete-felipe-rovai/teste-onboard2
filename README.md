@@ -8,7 +8,7 @@
 
 Você deve ler o livro a seguir para entender o framework Scrum, como funciona, como se aplica, entre outras coisas - [Scrum - A Arte de Fazer o Trabalho na Metade do Tempo][1]
 
-<img src="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9381460&qld=90&l=430&a=-1" width="200">
+<img src="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9381460&qld=90&l=430&a=-1" width="150">
 
 ## Agile
 
