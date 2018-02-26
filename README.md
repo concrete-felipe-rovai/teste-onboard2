@@ -5,7 +5,7 @@
 [Scrum - A Arte de Fazer o Trabalho na Metade do Tempo][1]
 
 # ON-Board
-
+a
 ## Ler Scrumbook
 
 [Scrum - A Arte de Fazer o Trabalho na Metade do Tempo][1]
