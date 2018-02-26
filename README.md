@@ -15,6 +15,8 @@ Nesta etapa, voce deve estudar os frameworks abaixo:
 * Kanban
 * Extreme Programming
 
+No final dos estudos voce montar uma apresentacao com tudo sobre o que aprendeu referente a estes frameworks.
+
 ## Learn GitHub
 
 ## Use Bitbucket
