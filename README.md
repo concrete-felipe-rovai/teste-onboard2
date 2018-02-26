@@ -10,6 +10,11 @@ Voce deve ler o livro a seguir para entender o framework Scrum, como funciona, c
 
 ## Agile
 
+Nesta etapa, voce deve estudar os frameworks abaixo:
+* SCRUM
+* Kanban
+* Extreme Programming
+
 ## Learn GitHub
 
 ## Use Bitbucket
