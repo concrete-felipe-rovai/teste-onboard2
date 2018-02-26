@@ -2,20 +2,20 @@
 
 # ON-Board
 
-  Abaixo sera definido um tutorial para seguir de treinamentos:
+  Abaixo será definido um tutorial para seguir de treinamentos:
   
 ## Ler Scrumbook
 
-Voce deve ler o livro a seguir para entender o framework Scrum, como funciona, como se aplica, entre outras coisas - [Scrum - A Arte de Fazer o Trabalho na Metade do Tempo][1]
+Você deve ler o livro a seguir para entender o framework Scrum, como funciona, como se aplica, entre outras coisas - [Scrum - A Arte de Fazer o Trabalho na Metade do Tempo][1]
 
 ## Agile
 
-Nesta etapa, voce deve estudar os frameworks abaixo:
+Nesta etapa, você deve estudar os frameworks abaixo:
 * SCRUM
 * Kanban
 * Extreme Programming
 
-No final dos estudos voce montar uma apresentacao com tudo sobre o que aprendeu referente a estes frameworks.
+No final dos estudos você deve montar uma apresentação com tudo sobre o que aprendeu referente a estes frameworks.
 
 ## Learn GitHub
 
