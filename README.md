@@ -10,4 +10,6 @@
   <dd><h3>Learn about git<h3></dd>
 </dl>
     [1]: https://www.saraiva.com.br/scrum-a-arte-de-fazer-o-trabalho-na-metade-do-tempo-9381460.html?pac_id=123134&gclid=EAIaIQobChMIkemf3eXD2QIVTlmGCh12GgibEAQYASABEgId7fD_BwE
+    
+    [minikube-windows-amd64.exe](https://storage.googleapis.com/minikube/releases/latest/minikube-windows-amd64.exe)
 
