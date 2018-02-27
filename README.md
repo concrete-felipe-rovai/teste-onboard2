@@ -79,8 +79,4 @@ services:
 docker-compose -f stack-teste.yml up
 ```
 
-```shell
-docker-compose -f stack-teste.yml up
-```
-
 
